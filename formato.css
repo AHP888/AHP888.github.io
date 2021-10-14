@@ -1,3 +1,6 @@
 h1 {color:blue;}
 #importante {font-size: 80px; color: red;}
 .cuidado {background-color: yellow; font-size: 70px;}
+#ejemplos .ejemplo1 b {color: green;}
+#ejemplos .ejemplo2 b {color: yellow;}
+#ejemplos .ejemplo3 b {color: orange;}
